@@ -1,5 +1,7 @@
 <h2>Languages and Tools</h2>
 <h3 align="left">💻 Frontend</h3>
+<div style="display:flex">
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
   
@@ -47,3 +49,4 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premiere" width="45" height="45"/>
 </p>
+</div>
