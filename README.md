@@ -27,3 +27,5 @@
   <img src="https://skillicons.dev/icons?i=bootstrap,ps,ai,pr,vscode,git,github&theme=dark" />
 
 </div>
+
+![Benkraco's GitHub stats](https://github-readme-stats.vercel.app/api?username=benkraco&show_icons=true&theme=dark)
