@@ -34,6 +34,12 @@
   <img src="https://i.imgur.com/nq2CGzY.jpeg" width="25" align="center">
   Quórum (2026 - Actualidad)
 </h3>
+Quórum es un proyecto desarrollado durante 5.º año de secundaria en ORT.
+<p>
+  <br>
+  <a href="https://github.com/BrandonProg15/Quorum">
+    <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 <h3>
   <img src="https://raw.githubusercontent.com/benkraco/Nutrinfo/refs/heads/master/wwwroot/img/Logo/Isologo.png" width="25" align="center">
