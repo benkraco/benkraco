@@ -4,7 +4,7 @@
 💻 Fullstack developer centrado en aplicaciones web y productos digitales </br>
 📍 Ciudad Autónoma de Buenos Aires, Argentina </br>
 
-  <a href="/">
+  <a href="https://www.linkedin.com/in/benjamin-kracovitz/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=logmein&logoColor=white" />
   </a>
   <a href="https://github.com/benkracort">
