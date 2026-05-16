@@ -28,4 +28,3 @@
 
 </div>
 
-![Benkraco's GitHub stats](https://github-readme-stats.vercel.app/api?username=benkraco&show_icons=true&theme=dark)
