@@ -15,7 +15,7 @@
   </a>
 <br>
 
-<h2 align="center">Lenguajes y Programas</h2>
+<h2 align="center">Lenguajes y Herramientas</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="48" height="48"/>
@@ -39,3 +39,14 @@
   <img src="https://raw.githubusercontent.com/benkraco/Nutrinfo/refs/heads/master/wwwroot/img/Logo/Isologo.png" width="25" align="center">
   Nutrinfo (2025 - 2025)
 </h3>
+Nutrinfo es un proyecto desarrollado durante 4.º año de secundaria en ORT. Consiste en una aplicación web que explica de forma clara y coloquial la información nutricional de los alimentos, ayudando a los usuarios a entender qué consumen y si un producto es adecuado para ellos según sus necesidades y restricciones alimenticias. Fue desarrollado en C# usando el framework ASP.NET MVC. <br>
+En este proyecto me desempeñé como <b>Project Leader</b> y <b>Fullstack Developer</b>, participando tanto en la planificación del producto como en su desarrollo.
+<p>
+  <br>
+  <a href="https://github.com/benkraco/Nutrinfo">
+    <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+    <a href="https://campus.ort.edu.ar/noticia/2305813/soluciones-innovadoras-a-problematicas-reales-asi-fue-info-360">
+    <img src="https://img.shields.io/badge/Newsletter%20ORT-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+</p>
