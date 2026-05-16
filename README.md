@@ -1,4 +1,16 @@
-<h3 align="center">Languages and Tools</h3>
+<h1 align="center">👋 Hola, soy Benkraco</h1>
+
+🎓 Estudiante de informática en ORT Argentina </br>
+💻 Fullstack developer centrado en aplicaciones web y productos digitales </br>
+📍 Ciudad Autónoma de Buenos Aires, Argentina </br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-kracovitz/)
+
+[![GitHub escolar](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benkracort)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benkraco@gmail.com)
+
+<h3 align="center">Lenguajes y Programas</h3>
 
 <div align="center">
 
