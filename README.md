@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hola, soy Benkraco</h1>
+<h1 align="center">
+  <img src="https://media.tenor.com/0CpFOKGVaeMAAAAj/hand-waving-hand.gif" width="30" align="center">
+  Hola, soy Benkraco
+</h1>
 
 🎓 Estudiante de informática en ORT Argentina </br>
 💻 Fullstack developer centrado en aplicaciones web y productos digitales </br>
