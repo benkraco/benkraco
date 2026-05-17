@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.tenor.com/0CpFOKGVaeMAAAAj/hand-waving-hand.gif" width="30" align="center">
-  Hola, soy Benkraco
+  Hola, soy Benjamin Kracovitz
 </h1>
 
 🎓 Estudiante de informática en ORT Argentina </br>
