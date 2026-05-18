@@ -34,17 +34,10 @@
   <img src="https://i.imgur.com/nq2CGzY.jpeg" width="25" align="center">
   Quórum (2026 - Actualidad)
 </h3>
-Quórum es un proyecto desarrollado durante 5.º año de secundaria en ORT.
+Quórum es un proyecto desarrollado durante 5.º año de secundaria en ORT. Está siendo desarrollado con React Native, utilizando Node.js para el backend y PostgreSQL como base de datos.
 
 <p>
   <br>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-<p>
   <a href="https://github.com/BrandonProg15/Quorum">
     <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -53,17 +46,11 @@ Quórum es un proyecto desarrollado durante 5.º año de secundaria en ORT.
   <img src="https://raw.githubusercontent.com/benkraco/Nutrinfo/refs/heads/master/wwwroot/img/Logo/Isologo.png" width="25" align="center">
   Nutrinfo (2025 - 2025)
 </h3>
-Nutrinfo es un proyecto desarrollado durante 4.º año de secundaria en ORT. Consiste en una aplicación web que explica de forma clara y coloquial la información nutricional de los alimentos, ayudando a los usuarios a entender qué consumen y si un producto es adecuado para ellos según sus necesidades y restricciones alimenticias. <br>
+Nutrinfo es un proyecto desarrollado durante 4.º año de secundaria en ORT. Consiste en una aplicación web que explica de forma clara y coloquial la información nutricional de los alimentos, ayudando a los usuarios a entender qué consumen y si un producto es adecuado para ellos según sus necesidades y restricciones alimenticias. Fue desarrollado en C# utilizando el framework ASP.NET MVC y una base de datos Microsoft SQL Server. <br>
 En este proyecto me desempeñé como <b>Project Leader</b> y <b>Fullstack Developer</b>, participando tanto en la planificación del producto como en su desarrollo.
 
 <p>
   <br>
-  <img src="https://img.shields.io/badge/C%23-9b4f96?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-<p>
   <a href="https://github.com/benkraco/Nutrinfo">
     <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
