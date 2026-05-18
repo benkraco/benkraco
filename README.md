@@ -35,8 +35,16 @@
   Quórum (2026 - Actualidad)
 </h3>
 Quórum es un proyecto desarrollado durante 5.º año de secundaria en ORT.
+
 <p>
   <br>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+<p>
   <a href="https://github.com/BrandonProg15/Quorum">
     <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -45,14 +53,24 @@ Quórum es un proyecto desarrollado durante 5.º año de secundaria en ORT.
   <img src="https://raw.githubusercontent.com/benkraco/Nutrinfo/refs/heads/master/wwwroot/img/Logo/Isologo.png" width="25" align="center">
   Nutrinfo (2025 - 2025)
 </h3>
-Nutrinfo es un proyecto desarrollado durante 4.º año de secundaria en ORT. Consiste en una aplicación web que explica de forma clara y coloquial la información nutricional de los alimentos, ayudando a los usuarios a entender qué consumen y si un producto es adecuado para ellos según sus necesidades y restricciones alimenticias. Fue desarrollado en C# usando el framework ASP.NET MVC. <br>
+Nutrinfo es un proyecto desarrollado durante 4.º año de secundaria en ORT. Consiste en una aplicación web que explica de forma clara y coloquial la información nutricional de los alimentos, ayudando a los usuarios a entender qué consumen y si un producto es adecuado para ellos según sus necesidades y restricciones alimenticias. <br>
 En este proyecto me desempeñé como <b>Project Leader</b> y <b>Fullstack Developer</b>, participando tanto en la planificación del producto como en su desarrollo.
+
 <p>
   <br>
+  <img src="https://img.shields.io/badge/C%23-9b4f96?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+<p>
   <a href="https://github.com/benkraco/Nutrinfo">
     <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
     <a href="https://campus.ort.edu.ar/noticia/2305813/soluciones-innovadoras-a-problematicas-reales-asi-fue-info-360">
     <img src="https://img.shields.io/badge/Newsletter%20ORT-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="https://www.figma.com/design/6TZjIkmAgDXfAIfCIRuwfM/Nutrinfo?node-id=131-166&p=f&t=7yXByIqqXkRzJqIM-0">
+    <img src="https://img.shields.io/badge/Prototipo%20Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </a>
 </p>
