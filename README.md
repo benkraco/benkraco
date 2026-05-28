@@ -38,8 +38,8 @@ Quórum es un proyecto desarrollado durante 5.º año de secundaria en ORT. Est�
 
 <p>
   <br>
-  <a href="https://github.com/BrandonProg15/Quorum">
-    <img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/BrandonProg15/Quorum-Mobile">
+    <img src="https://img.shields.io/badge/Repositorio%20(Mobile)-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <h3>
