@@ -34,7 +34,8 @@
   <img src="https://i.imgur.com/nq2CGzY.jpeg" width="25" align="center">
   Quórum (2026 - Actualidad)
 </h3>
-Quórum es un proyecto desarrollado durante 5.º año de secundaria en ORT. Consiste en una aplicación móvil que ayuda a grupos de personas a organizar reuniones y eventos sociales de manera simple e intuitiva. Mediante herramientas de coordinación, votación y planificación, permite resolver cuestiones como el lugar, la fecha, el presupuesto y la logística en un único espacio. Está siendo desarrollado con React Native, utilizando Node.js para el backend y PostgreSQL como base de datos. En este proyecto me estoy desempeñando como <b>Fullstack Developer</b>.
+Quórum es un proyecto desarrollado durante 5.º año de secundaria en ORT. Consiste en una aplicación móvil que ayuda a grupos de personas a organizar reuniones y eventos sociales de manera simple e intuitiva. Mediante herramientas de coordinación, votación y planificación, permite resolver cuestiones como el lugar, la fecha, el presupuesto y la logística en un único espacio. Está siendo desarrollado con React Native, utilizando Node.js para el backend y PostgreSQL como base de datos. <br>
+En este proyecto me estoy desempeñando como <b>Fullstack Developer</b>.
 
 <p>
   <br>
